@@ -1,4 +1,3 @@
-import { Link } from "@mui/material";
 import Head from "next/head";
 
 const Container = (props) => (
